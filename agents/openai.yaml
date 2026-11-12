@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fusion Claw Builder"
+  short_description: "Code Fusion Claw autonomous outcomes into an agentic app"
+  default_prompt: "Use $fusion-claw-builder to add Fusion Claw autonomous outcomes to the built agentic app by coding its capabilities and Autonomous Outcomes settings."
